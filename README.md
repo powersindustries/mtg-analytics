@@ -7,3 +7,5 @@ You can read an article [HERE](https://lukaspowers.substack.com/p/magic-the-gath
 
 ## Cheapest Way to Play Magic the Gathering
 This project (mtg_pricing directory) contains average calculations for the pricing of all cards in Magic the Gathering. In these scripts, we calulate the average cost by color for all cards along with the averages broken down by game mode (Standard, Modern, Legacy, and Commander). In the end, we determine what is the cheapest and most expensive color to play along with what is the cheapest game mode to play.
+
+You can read an article [HERE](https://lukaspowers.substack.com/p/what-is-the-cheapest-way-to-play) with the findings from this analytics project.
